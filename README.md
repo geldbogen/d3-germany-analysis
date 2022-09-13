@@ -1,1 +1,1 @@
-An interactive map of germany with the birthplaces of the most famous people from there. 
+An interactive map of germany with the birthplaces of the most famous people from there. I used the wikidata query service (https://query.wikidata.org) to fetch the data (birthplaces, names, number of wikipedialanguages etc.) and made an interactive visualization with the help of d3 (https://d3js.org/) in JavaScript. 
